@@ -25,7 +25,9 @@ public class Map {
 	static RegulatedMotor l = new EV3LargeRegulatedMotor(MotorPort.A);
 	static RegulatedMotor r = new EV3LargeRegulatedMotor(MotorPort.D);
 	
-	
+	/*
+	 * 
+	 */
 	public static void main (String[] args) {
 		
 		//Creates pilot
